@@ -1,7 +1,7 @@
 import React, {Fragment, useState} from 'react';
 import { v4 as uuid } from 'uuid'; //Libreria que crea ID unicos para formar elementos unicos
 
-const Formulario = () => {
+const Formulario = ({crearCita}) => {
 
     //Crear State de las citas
     const [cita, actualizarCita] = useState({
@@ -11,7 +11,7 @@ const Formulario = () => {
         hora: '',
         sintomas: ''
     });
-
+    
     //State para validar el form
     const [error, actualizarError] = useState(false);
 
@@ -45,9 +45,20 @@ const Formulario = () => {
         cita.id = uuid();
 
         //Crear la cita
+        //Necesitamos crear un State principal oirque vanis a tener en la app principal citas para poder
+        //agregar las citas del form pero también listarlas en otro componente
+        crearCita(cita)
+
 
         //Reiniciar el form
-    }
+        actualizarCita({
+            mascota: '',
+            propietario: '',
+            fecha: '',
+            hora: '',
+            sintomas: ''
+        });
+    };
 
     return (        
         <Fragment>
