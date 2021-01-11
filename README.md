@@ -4,7 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+App que permite adminsitrar las citas de una clínca veterinaria.
+
+En ella se utiliza el hook useState para ir leyendo los diferentes campos
 
 ### `npm start`
 
