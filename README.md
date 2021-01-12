@@ -1,4 +1,4 @@
-![logo-love-pets](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610448904/LovePets/pets_axyj7w.png)
+![logo-love-pets](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610451855/LovePets/pets_acdwtw.png)
 
 # Adminsitrador de Citas - Clínica Veterinaria
 
@@ -33,3 +33,4 @@ Se requiere un código ordenado y comentado.
 ### Autor
 ---
 [Víctor Manuel Morales](https://www.linkedin.com/in/victormmorales/)
+![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610451806/LovePets/logo-vr_cofwdq.png)
