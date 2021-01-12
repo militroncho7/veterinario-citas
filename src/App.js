@@ -1,4 +1,5 @@
 import React, {Fragment, useState} from 'react';
+import Logo from './components/Logo';
 import Formulario from './components/Formulario';
 import Cita from './components/Cita';
 
@@ -14,7 +15,8 @@ function App() {
 
   return (
     <Fragment>
-      <h1>Administra tu Cita</h1>
+      <Logo />
+      <h3>Cuidamos de tus animales</h3>
       
       <div className="container">
         <div className="row">

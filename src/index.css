@@ -9,16 +9,33 @@ body {
   min-height: 100%;
   padding-bottom: 5rem;
 }
-h1, h2  {
+h1 {
   color: white;
-  padding: 3rem 0;
+  padding: 1rem 0;
   text-align: center;
-
   text-transform: uppercase;
-
   font-family: 'Staatliches', cursive;
   letter-spacing: 1px;
+  font-size: 35px;
 }
+h2  {
+  color: white;
+  padding: 1rem 0;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+  font-size: 30px;
+}
+h3  {
+  color: rgb(255, 166, 0);
+  text-align: center;
+  text-transform: uppercase;
+  font-family: 'Staatliches', cursive;
+  letter-spacing: 1px;
+  font-size: 22px;
+}
+
 .lista-citas .media {
   border-bottom: 1px solid #e1e1e1;
   padding-bottom: 3rem;
@@ -91,3 +108,11 @@ input[type="time"] {
   text-align: center;
   font-family:  'Staatliches', cursive;
 } 
+.logo-container{
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  max-width: 175px;
+  display: flex;
+}
