@@ -33,4 +33,5 @@ Se requiere un código ordenado y comentado.
 ### Autor
 ---
 [Víctor Manuel Morales](https://www.linkedin.com/in/victormmorales/)
+.
 ![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610451806/LovePets/logo-vr_cofwdq.png)
