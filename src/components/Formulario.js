@@ -1,6 +1,6 @@
 import React, {Fragment, useState} from 'react';
 import { v4 as uuid } from 'uuid'; //Libreria que crea ID unicos para formar elementos unicos
-import PropTypes from "prop-types";
+// import PropTypes from "prop-types";
 
 const Formulario = ({crearCita}) => {
 
@@ -127,8 +127,8 @@ const Formulario = ({crearCita}) => {
     );
 }
 
-Formulario.propTypes = {
-    crearCita: PropTypes.func.isRequired
-}
+// Formulario.propTypes = {
+//     crearCita: PropTypes.func.isRequired
+// }
  
 export default Formulario;

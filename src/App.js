@@ -2,6 +2,7 @@ import React, {Fragment, useState, useEffect} from 'react';
 import Logo from './components/Logo';
 import Formulario from './components/Formulario';
 import Cita from './components/Cita';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -64,6 +65,9 @@ function App() {
           </div>
         </div>
       </div>
+
+      <Footer />
+      
     </Fragment>
     
   );

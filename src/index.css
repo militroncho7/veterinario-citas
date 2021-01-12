@@ -118,3 +118,23 @@ input[type="time"] {
   max-width: 175px;
   display: flex;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  left: 0;
+}
+
+.footer p {
+  margin-bottom: 0px;
+  color: #fff;
+}
+
+.footer img {
+  max-width: 50px;
+}
