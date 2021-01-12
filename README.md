@@ -6,7 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 App que permite adminsitrar las citas de una clínca veterinaria.
 
-En ella se utiliza el hook useState para ir leyendo los diferentes campos
+En ella se utiliza el hook useState para ir leyendo los diferentes campos.
+
+- Agregamos las citas en el Local Storage. De esta manera si recargamos las app, no perdemos la información.
 
 ### `npm start`
 
