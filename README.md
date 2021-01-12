@@ -1,74 +1,35 @@
+![logo-love-pets](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610448904/LovePets/pets_axyj7w.png)
+
 # Adminsitrador de Citas - Clínica Veterinaria
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Aplicación web que administra las citas de una clínica veterinaria [LovePets 🧡](https://keen-lalande-2f67d9.netlify.app/).
 
-## Available Scripts
+## Sitio Web
+---
+![Sitio web](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610448833/LovePets/screencapture-keen-lalande-2f67d9-netlify-app-2021-01-12-11_49_21_ig4no2.png)
 
-App que permite adminsitrar las citas de una clínca veterinaria.
+App realizada mediante la libería React.js.
 
-En ella se utiliza el hook useState para ir leyendo los diferentes campos.
+- Creada con componentes funcionales
+- Manenjando los diferentes estados en el formulario (Hook useState)
+- Validación de formularios
+- Asignación de IDs únicos
+- Reinicio del formulario cuando lo envía el usuario
+- Visualizacióon de las nuevas citas
+- Mensaje condicional en función de las citas
+- Guardamos la información en LocalStorage (mediante el hook useEffect)
+- Documentando con PropTypes
+- Deployment del proyecto (netlify).
 
-- Agregamos las citas en el Local Storage. De esta manera si recargamos las app, no perdemos la información.
+### Cómo contribuir
+---
+Toda aportación o comentario será recibido de buen gusto, ya que con ellos se podrá ayudar a crecer tanto a la app como a nosotros como desarrolladores.
 
-### `npm start`
+Cualquier mejora será incluida tras una previa revisión a través de un “pull requests”.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Se requiere un código ordenado y comentado.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Autor
+---
+[Víctor Manuel Morales](https://www.linkedin.com/in/victormmorales/)
