@@ -2,7 +2,7 @@
 
 # Adminsitrador de Citas - Clínica Veterinaria
 
-Aplicación web que administra las citas de una clínica veterinaria [LovePets 🧡](https://keen-lalande-2f67d9.netlify.app/).
+Aplicación web que administra las citas de una clínica veterinaria [LovePets 🧡](https://ecstatic-jennings-eb4ec2.netlify.app).
 
 ## Sitio Web
 ---
@@ -33,4 +33,4 @@ Se requiere un código ordenado y comentado.
 ### Autor
 ---
 
-![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610451806/LovePets/logo-vr_cofwdq.png) || [Víctor Ruiz](https://www.linkedin.com/in/victormmorales/)
+![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610528606/Logos%20VR/logo-vr_f3txcl.jpg) || [Víctor Ruiz](https://www.linkedin.com/in/victormmorales/)
