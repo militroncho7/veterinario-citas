@@ -33,4 +33,4 @@ Se requiere un código ordenado y comentado.
 ### Autor
 ---
 
-![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610528606/Logos%20VR/logo-vr_f3txcl.jpg) || [Víctor Ruiz](https://www.linkedin.com/in/victormmorales/)
+![VR-Logo](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610528741/Logos%20VR/logo-vr_cmhmpa.jpg) || [Víctor Ruiz](https://www.linkedin.com/in/victormmorales/)
