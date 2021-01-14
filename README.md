@@ -21,6 +21,7 @@ App realizada mediante la libería React.js.
 - Documentando con PropTypes
 - Deployment del proyecto (netlify).
 - Totalmente Responsive:
+---
 ![Responsive](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610630532/LovePets/iphone_1_1_ilbyg3.png)
 
 
