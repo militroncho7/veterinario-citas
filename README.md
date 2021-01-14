@@ -6,7 +6,7 @@ Aplicación web que administra las citas de una clínica veterinaria [LovePets �
 
 ## Sitio Web
 ---
-![Sitio web](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610448833/LovePets/screencapture-keen-lalande-2f67d9-netlify-app-2021-01-12-11_49_21_ig4no2.png)
+![Sitio web](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610628299/LovePets/screencapture-ecstatic-jennings-eb4ec2-netlify-app-2021-01-14-13_39_24_t5nlyc.png)
 
 App realizada mediante la libería React.js.
 
@@ -20,6 +20,9 @@ App realizada mediante la libería React.js.
 - Guardamos la información en LocalStorage (mediante el hook useEffect)
 - Documentando con PropTypes
 - Deployment del proyecto (netlify).
+- Totalmente Responsive:
+![Responsive](https://res.cloudinary.com/dhd9jgrw3/image/upload/v1610628350/LovePets/iphone_1_hcdyn7.png)
+
 
 ### Cómo contribuir
 ---
